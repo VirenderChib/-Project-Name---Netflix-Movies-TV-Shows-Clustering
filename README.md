@@ -1,5 +1,10 @@
 # -Project-Name---Netflix-Movies-TV-Shows-Clustering
 
+![Netflix logo](https://github.com/VirenderChib/-Project-Name---Netflix-Movies-TV-Shows-Clustering/assets/117941172/91b0ed76-f9ef-4081-b8fe-8b0fcac1695a)
+
+
+
+
 To ensure an optimal user experience and prevent subscriber churn, it is essential for Netflix, the world's leading online streaming service provider with over 220 million subscribers as of 2022, to effectively cluster the shows on their platform.
 
 Table of Content:
